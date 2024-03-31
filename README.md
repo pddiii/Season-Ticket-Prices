@@ -2,6 +2,10 @@
 
 This repository utilizes the SeatGeek API interface to scrape tickets and ticket statistics for the home team of MLB games.
 
+## SeatGeek API Attribution
+
+[![SeatGeek Logo](Secondary.png)](https://seatgeek.com/)
+
 ## Ticket Prices file
 
 [Ticket Prices](ticket_prices.py) is a file which contains a function `get_tickets`
